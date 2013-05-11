@@ -1,9 +1,9 @@
 //
 //  HTTPImageView.m
-//  meetIncs
+//  ostalgo
 //
-//  Created by Olivier Demolliens on 29/11/12.
-//  Copyright (c) 2012 neopixl. All rights reserved.
+//  Created by Olivier Demolliens on 03/04/12.
+//  Copyright (c) 2012 Olivier Demolliens. All rights reserved.
 //
 
 #import "HTTPImageView.h"
