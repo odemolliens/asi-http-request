@@ -1,737 +1,0 @@
-TODASIHTTPRequest
-v5
-r1
-cCheck dependencies
-cProcessPCH /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch.gch StaticFramework/ODASIHTTPRequest-Prefix.pch normal armv7s objective-c com.apple.compilers.llvmgcc42
-cProcessPCH /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch.gch StaticFramework/ODASIHTTPRequest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDownloadCache.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataCompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIFormDataRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIInputStream.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIAuthenticationDialog.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASINetworkQueue.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/HTTPImageView.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataDecompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataCompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDownloadCache.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIInputStream.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASINetworkQueue.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/HTTPImageView.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/Reachability.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIHTTPRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/Reachability.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-cLibtool /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a normal armv7
-cLibtool /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a normal armv7s
-cCreateUniversalBinary /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/libODASIHTTPRequest.a normal "armv7 armv7s"
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
-c00000000518522B30000000000000110
-t1367679667
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
-c0000000051505C2500000000000004CF
-t1364220965
-s1231
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
-c0000000051505C250000000000000B8F
-t1364220965
-s2959
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051505C27000000000062AD10
-t1364220967
-s6466832
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c0000000051505C2600000000000015F7
-t1364220966
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
-c0000000051505C2600000000000000EB
-t1364220966
-s235
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c0000000051505C2700000000000000C4
-t1364220967
-s196
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
-c0000000051505C270000000000001B13
-t1364220967
-s6931
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c0000000051505C270000000000000E8D
-t1364220967
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/CommonCrypto/CommonHMAC.h
-c0000000051505C2C000000000000108C
-t1364220972
-s4236
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/arpa/inet.h
-c0000000051505C2C0000000000001154
-t1364220972
-s4436
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/ifaddrs.h
-c0000000051505C2C00000000000008F5
-t1364220972
-s2293
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/netdb.h
-c0000000051505C2C000000000000307F
-t1364220972
-s12415
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/netinet/in.h
-c0000000051505C2C0000000000006B9D
-t1364220972
-s27549
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/netinet6/in6.h
-c0000000051505C2C00000000000065BF
-t1364220972
-s26047
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/stdio.h
-c0000000051505C2C0000000000004523
-t1364220972
-s17699
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/sys/socket.h
-c0000000051505C2C0000000000005B3C
-t1364220972
-s23356
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/zlib.h
-c0000000051505C2D0000000000013A7F
-t1364220973
-s80511
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/libODASIHTTPRequest.a
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.h
-c0000000050FBD0490000000000000453
-t1358680137
-s1107
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m
-c0000000050FBD0490000000000003F4A
-t1358680137
-s16202
-i"ASIAuthenticationDialog.h"
-i"ASIHTTPRequest.h"
-i<QuartzCore/QuartzCore.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASICacheDelegate.h
-c0000000050FBD049000000000000141F
-t1358680137
-s5151
-i<Foundation/Foundation.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.h
-c0000000050FBD049000000000000072C
-t1358680137
-s1836
-i<Foundation/Foundation.h>
-i<zlib.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m
-c0000000050FBD0490000000000001A62
-t1358680137
-s6754
-i"ASIDataCompressor.h"
-i"ASIHTTPRequest.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.h
-c0000000050FBD04900000000000006A3
-t1358680137
-s1699
-i<Foundation/Foundation.h>
-i<zlib.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m
-c0000000050FBD0490000000000001915
-t1358680137
-s6421
-i"ASIDataDecompressor.h"
-i"ASIHTTPRequest.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.h
-c0000000050FBD04900000000000007CC
-t1358680137
-s1996
-i<Foundation/Foundation.h>
-i"ASICacheDelegate.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m
-c0000000050FBD0490000000000004561
-t1358680137
-s17761
-i"ASIDownloadCache.h"
-i"ASIHTTPRequest.h"
-i<CommonCrypto/CommonHMAC.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.h
-c0000000050FBD0490000000000000A6D
-t1358680137
-s2669
-i<Foundation/Foundation.h>
-i"ASIHTTPRequest.h"
-i"ASIHTTPRequestConfig.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m
-c0000000050FBD0490000000000002B74
-t1358680137
-s11124
-i"ASIFormDataRequest.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.h
-c0000000050FBD049000000000000AFF5
-t1358680137
-s45045
-i<Foundation/Foundation.h>
-i<CFNetwork/CFNetwork.h>
-i<UIKit/UIKit.h>
-i<stdio.h>
-i"ASIHTTPRequestConfig.h"
-i"ASIHTTPRequestDelegate.h"
-i"ASIProgressDelegate.h"
-i"ASICacheDelegate.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m
-c00000000518E186A000000000002D4E3
-t1368266858
-s185571
-i"ASIHTTPRequest.h"
-i"Reachability.h"
-i"ASIAuthenticationDialog.h"
-i<MobileCoreServices/MobileCoreServices.h>
-i<SystemConfiguration/SystemConfiguration.h>
-i"ASIInputStream.h"
-i"ASIDataDecompressor.h"
-i"ASIDataCompressor.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequestConfig.h
-c0000000050FBD0490000000000000511
-t1358680137
-s1297
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequestDelegate.h
-c0000000050FBD049000000000000063E
-t1358680137
-s1598
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.h
-c0000000050FBD04900000000000003C9
-t1358680137
-s969
-i<Foundation/Foundation.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m
-c0000000050FBD0490000000000000C32
-t1358680137
-s3122
-i"ASIInputStream.h"
-i"ASIHTTPRequest.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.h
-c0000000050FBD049000000000000120D
-t1358680137
-s4621
-i<Foundation/Foundation.h>
-i"ASIHTTPRequestDelegate.h"
-i"ASIProgressDelegate.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m
-c0000000050FBD0490000000000002C8D
-t1358680137
-s11405
-i"ASINetworkQueue.h"
-i"ASIHTTPRequest.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIProgressDelegate.h
-c0000000050FBD0490000000000000678
-t1358680137
-s1656
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.h
-c00000000518E190B00000000000002EA
-t1368267019
-s746
-i<UIKit/UIKit.h>
-i"ASIHTTPRequest.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m
-c00000000518E190F00000000000008C7
-t1368267023
-s2247
-i"HTTPImageView.h"
-i"ASIDownloadCache.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ODASIHTTPRequest-Prefix.pch
-c00000000518E1509000000000000006D
-t1368265993
-s109
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.h
-c0000000050FBD0490000000000001D25
-t1358680137
-s7461
-i<Foundation/Foundation.h>
-i<SystemConfiguration/SystemConfiguration.h>
-i<netinet/in.h>
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m
-c0000000050FBD0490000000000005DB5
-t1358680137
-s23989
-i<sys/socket.h>
-i<netinet/in.h>
-i<netinet6/in6.h>
-i<arpa/inet.h>
-i<ifaddrs.h>
-i<netdb.h>
-i<CoreFoundation/CoreFoundation.h>
-i"Reachability.h"
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIAuthenticationDialog.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataCompressor.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataDecompressor.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDownloadCache.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIFormDataRequest.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIHTTPRequest.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIInputStream.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASINetworkQueue.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/HTTPImageView.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ODASIHTTPRequest.LinkFileList
-c00000000518E626500000000000005E7
-t1368285797
-s1511
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/Reachability.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIAuthenticationDialog.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataCompressor.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataDecompressor.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDownloadCache.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIFormDataRequest.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIHTTPRequest.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIInputStream.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASINetworkQueue.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/HTTPImageView.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ODASIHTTPRequest.LinkFileList
-c00000000518E626500000000000005F1
-t1368285797
-s1521
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/Reachability.o
-t2
-s0
-
-N/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a
-t2
-s0
-
-N/var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch.gch
-t2
-s0
-
-N/var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch.gch
-t2
-s0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies81ebcee5993eb741^64e6dee5993eb741^---0#1#0#--18"Check dependencies36"DD7C1DAB-B617-4671-9DCF-DBF21B5A3187-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.507506
-e389978599.363889
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIAuthenticationDialog.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m276883e6993eb741^11355de7993eb741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m0000000000000000^3400"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIAuthenticationDialog.o StaticFramework/ASI/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIAuthenticationDialog.o36"AF5840CE-5969-4B94-B01B-0B9DCB61F455-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataCompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.518119
-e389978599.057442
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataCompressor.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m78b885e6993eb741^74b40ee7993eb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m0000000000000000^3376"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataCompressor.o StaticFramework/ASI/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataCompressor.o36"1C7B1928-99EB-4A67-A1C8-9D8189699F35-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.521471
-e389978599.052696
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataDecompressor.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m881186e6993eb741^b37c0de7993eb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m0000000000000000^3384"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataDecompressor.o StaticFramework/ASI/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDataDecompressor.o36"48D73D11-5FFE-4939-9740-B273FE8655E1-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDownloadCache.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.522571
-e389978599.306046
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDownloadCache.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m0d5086e6993eb741^e4834ee7993eb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m0000000000000000^3372"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDownloadCache.o StaticFramework/ASI/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIDownloadCache.o36"8D11A23D-2E31-44F5-936E-24D9E6328B7E-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.610434
-e389978599.279103
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIFormDataRequest.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m7cf29ce6993eb741^4b7347e7993eb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m0000000000000000^3380"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIFormDataRequest.o StaticFramework/ASI/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIFormDataRequest.o36"52086753-F769-4C38-924A-B2CAF53F06F0-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.643926
-e389978600.876224
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIHTTPRequest.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.mbc76a5e6993eb741^9c50e0e8993eb741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m0000000000000000^3364"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIHTTPRequest.o StaticFramework/ASI/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIHTTPRequest.o36"3BF437A0-CB74-4D6F-9124-2B158115A53B-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIInputStream.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.676166
-e389978599.148993
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIInputStream.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m49bbade6993eb741^b8ea26e7993eb741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m0000000000000000^3364"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIInputStream.o StaticFramework/ASI/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASIInputStream.o36"EDE83FE9-623D-4986-A3E9-0DE05936FDC4-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASINetworkQueue.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978598.787008
-e389978599.428435
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASINetworkQueue.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.med0dcae6993eb741^32ad6de7993eb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m0000000000000000^3368"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASINetworkQueue.o StaticFramework/ASI/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ASINetworkQueue.o36"0398F4D0-5480-49C0-8CC6-50C4A1858D93-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/HTTPImageView.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978599.054363
-e389978599.466547
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/HTTPImageView.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m3ca20ee7993eb741^a46e77e7993eb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m0000000000000000^3368"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/HTTPImageView.o StaticFramework/Extends/HTTPImageView.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/HTTPImageView.o36"A0663F8E-2CC5-41FC-AB19-618751FB023C-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/Reachability.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978599.058804
-e389978599.422277
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/Reachability.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m1aa50fe7993eb741^c1196ce7993eb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m0000000000000000^3374"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/Reachability.o StaticFramework/Reachability/Reachability.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/Reachability.o36"BC248F97-154C-422A-8EE9-356623D490E0-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIAuthenticationDialog.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.972347
-e389978598.785780
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIAuthenticationDialog.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m78b8f9e5993eb741^412ac9e6993eb741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m0000000000000000^3405"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIAuthenticationDialog.o StaticFramework/ASI/ASIAuthenticationDialog.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIAuthenticationDialog.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIAuthenticationDialog.o36"A4BE536C-DA53-40D9-92B3-4FAD4C3AC840-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataCompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.972299
-e389978598.518950
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataCompressor.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.mc3b6f9e5993eb741^6eda84e6993eb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m0000000000000000^3381"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataCompressor.o StaticFramework/ASI/ASIDataCompressor.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataCompressor.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataCompressor.o36"0939D5DB-991E-4A45-AB35-3997A2481B95-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataDecompressor.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.973376
-e389978598.519382
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataDecompressor.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m4cc2f9e5993eb741^530785e6993eb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m0000000000000000^3389"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataDecompressor.o StaticFramework/ASI/ASIDataDecompressor.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDataDecompressor.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDataDecompressor.o36"28E45D2B-3490-4527-ACEB-678CA88FC4E7-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDownloadCache.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.972285
-e389978598.674820
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDownloadCache.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.mfdbcf9e5993eb741^16c0ace6993eb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m0000000000000000^3377"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDownloadCache.o StaticFramework/ASI/ASIDownloadCache.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIDownloadCache.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIDownloadCache.o36"F782A298-4771-41F3-90BE-38D5A828A492-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIFormDataRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.972304
-e389978598.609196
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIFormDataRequest.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m23d7f9e5993eb741^8ffe9be6993eb741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m0000000000000000^3385"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIFormDataRequest.o StaticFramework/ASI/ASIFormDataRequest.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIFormDataRequest.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIFormDataRequest.o36"B3B5A388-BBEC-4FB6-8CC6-1C06FAE5EC62-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIHTTPRequest.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978599.150372
-e389978601.080241
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIHTTPRequest.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m251f27e7993eb741^698a14e9993eb741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m0000000000000000^3369"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIHTTPRequest.o StaticFramework/ASI/ASIHTTPRequest.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIHTTPRequest.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIHTTPRequest.o36"45F93F3A-8188-457E-B5D2-B7CFC6221D5D-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIInputStream.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.972329
-e389978598.502479
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIInputStream.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.mf5d9f9e5993eb741^8e3f81e6993eb741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m0000000000000000^3369"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIInputStream.o StaticFramework/ASI/ASIInputStream.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASIInputStream.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASIInputStream.o36"AE02BAF8-389F-4D13-8DA4-CABA89649903-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASINetworkQueue.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.972366
-e389978598.642360
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASINetworkQueue.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m1cb2f9e5993eb741^9371a4e6993eb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m0000000000000000^3373"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASINetworkQueue.o StaticFramework/ASI/ASINetworkQueue.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ASI/ASINetworkQueue.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ASINetworkQueue.o36"58A5768C-62CB-4A14-8577-EE0DD600BCFC-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/HTTPImageView.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.973343
-e389978598.509763
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/HTTPImageView.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.mf5bef9e5993eb741^ae8082e6993eb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m0000000000000000^3373"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/HTTPImageView.o StaticFramework/Extends/HTTPImageView.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Extends/HTTPImageView.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/HTTPImageView.o36"31D64AB0-678B-4BCE-BC37-3ADB1941DA96-
-
-CCompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/Reachability.o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978599.280445
-e389978599.562162
-r1
-xCompileC
-xbuild/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/Reachability.o
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m7c6348e7993eb741^ffe88fe7993eb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m0000000000000000^3379"CompileC build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/Reachability.o StaticFramework/Reachability/Reachability.m normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -include /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/Reachability/Reachability.m -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/Reachability.o36"0B4AC4B9-1FE0-4C23-90CD-D6C1196B26A9-
-
-CCreateUniversalBinary /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/libODASIHTTPRequest.a normal "armv7 armv7s"
-s389978601.109673
-e389978601.138729
-r1
-xCreateUniversalBinary
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/libODASIHTTPRequest.a
-xnormal
-xarmv7 armv7s
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Create universal binary /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/libODASIHTTPRequest.a5f621ce9993eb741^5a8323e9993eb741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/libODASIHTTPRequest.a000000000080d041^1474"CreateUniversalBinary Build/Products/Release-iphoneos/libODASIHTTPRequest.a normal "armv7 armv7s"    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/libODASIHTTPRequest.a36"38AC2063-C5CD-4259-A946-C62F223B463C-
-
-CLibtool /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a normal armv7
-s389978600.883057
-e389978600.898172
-r1
-xLibtool
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a
-xnormal
-xarmv7
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Libtool build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a normal armv7b48ee2e8993eb741^41efe5e8993eb741^---0#0#0#--1788"Libtool build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a normal armv7    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -filelist /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/ODASIHTTPRequest.LinkFileList -framework Foundation -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7/libODASIHTTPRequest.a36"96B6607A-3C49-48A6-A4EA-C5C296A8656F-
-
-CLibtool /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a normal armv7s
-s389978601.087045
-e389978601.102893
-r1
-xLibtool
-x/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a
-xnormal
-xarmv7s
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Libtool build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a normal armv7s0fd316e9993eb741^21571ae9993eb741^---0#0#0#--1793"Libtool build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a normal armv7s    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -filelist /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/ODASIHTTPRequest.LinkFileList -framework Foundation -o /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/Objects-normal/armv7s/libODASIHTTPRequest.a36"2560E018-A887-49C1-969B-59CAB719E230-
-
-CProcessPCH /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch.gch StaticFramework/ODASIHTTPRequest-Prefix.pch normal armv7s objective-c com.apple.compilers.llvmgcc42
-s389978597.878337
-e389978597.965941
-r1
-xProcessPCH
-x/var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch.gch
-xStaticFramework/ODASIHTTPRequest-Prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Precompile StaticFramework/ODASIHTTPRequest-Prefix.pchc939e1e5993eb741^8447f7e5993eb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ODASIHTTPRequest-Prefix.pch0000000000000000^3308"ProcessPCH /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch.gch StaticFramework/ODASIHTTPRequest-Prefix.pch normal armv7s objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7s -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7s -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ODASIHTTPRequest-Prefix.pch -o /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-dserkjgsjnybuhckqobfynfrducq/ODASIHTTPRequest-Prefix.pch.gch36"4A902651-8CE0-4511-B77F-FE135DBC6D1F-
-
-CProcessPCH /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch.gch StaticFramework/ODASIHTTPRequest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
-s389978597.878345
-e389978597.968092
-r1
-xProcessPCH
-x/var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch.gch
-xStaticFramework/ODASIHTTPRequest-Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Precompile StaticFramework/ODASIHTTPRequest-Prefix.pchd256e1e5993eb741^f6d3f7e5993eb741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ODASIHTTPRequest-Prefix.pch0000000000000000^3305"ProcessPCH /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch.gch StaticFramework/ODASIHTTPRequest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -gdwarf-2 -mthumb -fobjc-abi-version=2 -miphoneos-version-min=5.0 -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-generated-files.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-own-target-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-all-target-headers.hmap -iquote /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/ODASIHTTPRequest-project-headers.hmap -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources/armv7 -I/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/build/ODASIHTTPRequest.build/Release-iphoneos/ODASIHTTPRequest.build/DerivedSources -F/Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/Build/Products/Release-iphoneos -c /Users/OsTaLaKaR/Dropbox/GithubPublic/ASI/StaticFramework/ODASIHTTPRequest-Prefix.pch -o /var/folders/1t/fbtkfn91651d5_35rgxsdhpw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ODASIHTTPRequest-Prefix-enjwqfwecjofzogntyiqqeceecqk/ODASIHTTPRequest-Prefix.pch.gch36"35E92FD7-BB97-4C1D-8FEE-4C937A805FAC-
-
