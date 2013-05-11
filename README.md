@@ -9,7 +9,7 @@ How it's work?
 ================
 
 If you don't need change anything in ASIHTTPRequest library: 
-Simply take ODASIHTTPRequest.framework (iOs compile) in /build/Products/Release-iphoneuniversal
+Simply take ODASIHTTPRequest.framework (iOs version) in /build/Products/Release-iphoneuniversal
 
 If not, launch ODASIHTTPRequest project, do change, and rebuild framework.
 
