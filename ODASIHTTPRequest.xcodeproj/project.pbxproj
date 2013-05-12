@@ -27,6 +27,7 @@
 		0042453C150F77B20022BEC3 /* ODASIHTTPRequest-Prefix.pch in Headers Files */ = {isa = PBXBuildFile; fileRef = 012521CD14CDC95500E12214 /* ODASIHTTPRequest-Prefix.pch */; };
 		00424546150F79030022BEC3 /* ODASIHTTPRequest-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 012521CD14CDC95500E12214 /* ODASIHTTPRequest-Prefix.pch */; };
 		012521CA14CDC95500E12214 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 012521C914CDC95500E12214 /* Foundation.framework */; };
+		23757F48173FB15D00D66C44 /* ASIHTTPRequestDelegate.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF131173E4C3900AA42AD /* ASIHTTPRequestDelegate.h */; };
 		23EEF13D173E4C3900AA42AD /* ASIAuthenticationDialog.h in Headers */ = {isa = PBXBuildFile; fileRef = 23EEF123173E4C3900AA42AD /* ASIAuthenticationDialog.h */; };
 		23EEF13E173E4C3900AA42AD /* ASIAuthenticationDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = 23EEF124173E4C3900AA42AD /* ASIAuthenticationDialog.m */; };
 		23EEF13F173E4C3900AA42AD /* ASICacheDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 23EEF125173E4C3900AA42AD /* ASICacheDelegate.h */; };
@@ -47,8 +48,6 @@
 		23EEF14E173E4C3900AA42AD /* ASINetworkQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = 23EEF134173E4C3900AA42AD /* ASINetworkQueue.h */; };
 		23EEF14F173E4C3900AA42AD /* ASINetworkQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 23EEF135173E4C3900AA42AD /* ASINetworkQueue.m */; };
 		23EEF150173E4C3900AA42AD /* ASIProgressDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 23EEF136173E4C3900AA42AD /* ASIProgressDelegate.h */; };
-		23EEF151173E4C3900AA42AD /* HTTPImageView.h in Headers */ = {isa = PBXBuildFile; fileRef = 23EEF138173E4C3900AA42AD /* HTTPImageView.h */; };
-		23EEF152173E4C3900AA42AD /* HTTPImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23EEF139173E4C3900AA42AD /* HTTPImageView.m */; };
 		23EEF153173E4C3900AA42AD /* Reachability.h in Headers */ = {isa = PBXBuildFile; fileRef = 23EEF13B173E4C3900AA42AD /* Reachability.h */; };
 		23EEF154173E4C3900AA42AD /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 23EEF13C173E4C3900AA42AD /* Reachability.m */; };
 		23EEF158173E4D6300AA42AD /* ASIAuthenticationDialog.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF123173E4C3900AA42AD /* ASIAuthenticationDialog.h */; };
@@ -59,11 +58,9 @@
 		23EEF15D173E4D6300AA42AD /* ASIFormDataRequest.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF12C173E4C3900AA42AD /* ASIFormDataRequest.h */; };
 		23EEF15E173E4D6300AA42AD /* ASIHTTPRequest.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF12E173E4C3900AA42AD /* ASIHTTPRequest.h */; };
 		23EEF15F173E4D6300AA42AD /* ASIHTTPRequestConfig.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF130173E4C3900AA42AD /* ASIHTTPRequestConfig.h */; };
-		23EEF160173E4D6300AA42AD /* ASIHTTPRequestDelegate.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF131173E4C3900AA42AD /* ASIHTTPRequestDelegate.h */; };
 		23EEF161173E4D6300AA42AD /* ASIInputStream.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF132173E4C3900AA42AD /* ASIInputStream.h */; };
 		23EEF162173E4D6300AA42AD /* ASINetworkQueue.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF134173E4C3900AA42AD /* ASINetworkQueue.h */; };
 		23EEF163173E4D6300AA42AD /* ASIProgressDelegate.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF136173E4C3900AA42AD /* ASIProgressDelegate.h */; };
-		23EEF164173E4D6300AA42AD /* HTTPImageView.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF138173E4C3900AA42AD /* HTTPImageView.h */; };
 		23EEF165173E4D6300AA42AD /* Reachability.h in Headers Files */ = {isa = PBXBuildFile; fileRef = 23EEF13B173E4C3900AA42AD /* Reachability.h */; };
 /* End PBXBuildFile section */
 
@@ -84,6 +81,7 @@
 			dstPath = "${BUILD_DIR}/${CONFIGURATION}-iphoneuniversal/${PRODUCT_NAME}.framework/Versions/A/Headers";
 			dstSubfolderSpec = 0;
 			files = (
+				23757F48173FB15D00D66C44 /* ASIHTTPRequestDelegate.h in Headers Files */,
 				23EEF158173E4D6300AA42AD /* ASIAuthenticationDialog.h in Headers Files */,
 				23EEF159173E4D6300AA42AD /* ASICacheDelegate.h in Headers Files */,
 				23EEF15A173E4D6300AA42AD /* ASIDataCompressor.h in Headers Files */,
@@ -92,11 +90,9 @@
 				23EEF15D173E4D6300AA42AD /* ASIFormDataRequest.h in Headers Files */,
 				23EEF15E173E4D6300AA42AD /* ASIHTTPRequest.h in Headers Files */,
 				23EEF15F173E4D6300AA42AD /* ASIHTTPRequestConfig.h in Headers Files */,
-				23EEF160173E4D6300AA42AD /* ASIHTTPRequestDelegate.h in Headers Files */,
 				23EEF161173E4D6300AA42AD /* ASIInputStream.h in Headers Files */,
 				23EEF162173E4D6300AA42AD /* ASINetworkQueue.h in Headers Files */,
 				23EEF163173E4D6300AA42AD /* ASIProgressDelegate.h in Headers Files */,
-				23EEF164173E4D6300AA42AD /* HTTPImageView.h in Headers Files */,
 				23EEF165173E4D6300AA42AD /* Reachability.h in Headers Files */,
 				0042453C150F77B20022BEC3 /* ODASIHTTPRequest-Prefix.pch in Headers Files */,
 			);
@@ -135,8 +131,6 @@
 		23EEF134173E4C3900AA42AD /* ASINetworkQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASINetworkQueue.h; sourceTree = "<group>"; };
 		23EEF135173E4C3900AA42AD /* ASINetworkQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASINetworkQueue.m; sourceTree = "<group>"; };
 		23EEF136173E4C3900AA42AD /* ASIProgressDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIProgressDelegate.h; sourceTree = "<group>"; };
-		23EEF138173E4C3900AA42AD /* HTTPImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTTPImageView.h; sourceTree = "<group>"; };
-		23EEF139173E4C3900AA42AD /* HTTPImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPImageView.m; sourceTree = "<group>"; };
 		23EEF13B173E4C3900AA42AD /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		23EEF13C173E4C3900AA42AD /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -157,7 +151,6 @@
 			isa = PBXGroup;
 			children = (
 				23EEF122173E4C3900AA42AD /* ASI */,
-				23EEF137173E4C3900AA42AD /* Extends */,
 				23EEF13A173E4C3900AA42AD /* Reachability */,
 			);
 			name = SourceCode;
@@ -262,15 +255,6 @@
 			path = ASI;
 			sourceTree = "<group>";
 		};
-		23EEF137173E4C3900AA42AD /* Extends */ = {
-			isa = PBXGroup;
-			children = (
-				23EEF138173E4C3900AA42AD /* HTTPImageView.h */,
-				23EEF139173E4C3900AA42AD /* HTTPImageView.m */,
-			);
-			path = Extends;
-			sourceTree = "<group>";
-		};
 		23EEF13A173E4C3900AA42AD /* Reachability */ = {
 			isa = PBXGroup;
 			children = (
@@ -300,7 +284,6 @@
 				23EEF14C173E4C3900AA42AD /* ASIInputStream.h in Headers */,
 				23EEF14E173E4C3900AA42AD /* ASINetworkQueue.h in Headers */,
 				23EEF150173E4C3900AA42AD /* ASIProgressDelegate.h in Headers */,
-				23EEF151173E4C3900AA42AD /* HTTPImageView.h in Headers */,
 				23EEF153173E4C3900AA42AD /* Reachability.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,7 +390,6 @@
 				23EEF149173E4C3900AA42AD /* ASIHTTPRequest.m in Sources */,
 				23EEF14D173E4C3900AA42AD /* ASIInputStream.m in Sources */,
 				23EEF14F173E4C3900AA42AD /* ASINetworkQueue.m in Sources */,
-				23EEF152173E4C3900AA42AD /* HTTPImageView.m in Sources */,
 				23EEF154173E4C3900AA42AD /* Reachability.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
